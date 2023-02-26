@@ -1,0 +1,15 @@
+/Users/danilatihonov/Desktop/educ/work13/bin/Debug/net7.0/work13
+/Users/danilatihonov/Desktop/educ/work13/bin/Debug/net7.0/work13.deps.json
+/Users/danilatihonov/Desktop/educ/work13/bin/Debug/net7.0/work13.runtimeconfig.json
+/Users/danilatihonov/Desktop/educ/work13/bin/Debug/net7.0/work13.dll
+/Users/danilatihonov/Desktop/educ/work13/bin/Debug/net7.0/work13.pdb
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.csproj.AssemblyReference.cache
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.AssemblyInfoInputs.cache
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.AssemblyInfo.cs
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.csproj.CoreCompileInputs.cache
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.dll
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/refint/work13.dll
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.pdb
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/work13.genruntimeconfig.cache
+/Users/danilatihonov/Desktop/educ/work13/obj/Debug/net7.0/ref/work13.dll
