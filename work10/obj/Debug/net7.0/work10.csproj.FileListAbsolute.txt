@@ -1,0 +1,15 @@
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.csproj.AssemblyReference.cache
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.AssemblyInfoInputs.cache
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.AssemblyInfo.cs
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.csproj.CoreCompileInputs.cache
+/Users/danilatihonov/Desktop/educ/work10/bin/Debug/net7.0/work10
+/Users/danilatihonov/Desktop/educ/work10/bin/Debug/net7.0/work10.deps.json
+/Users/danilatihonov/Desktop/educ/work10/bin/Debug/net7.0/work10.runtimeconfig.json
+/Users/danilatihonov/Desktop/educ/work10/bin/Debug/net7.0/work10.dll
+/Users/danilatihonov/Desktop/educ/work10/bin/Debug/net7.0/work10.pdb
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.dll
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/refint/work10.dll
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.pdb
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/work10.genruntimeconfig.cache
+/Users/danilatihonov/Desktop/educ/work10/obj/Debug/net7.0/ref/work10.dll
