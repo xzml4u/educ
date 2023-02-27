@@ -20,3 +20,5 @@ if(maxPos > day){
 else{
     Console.WriteLine("Error");
 }
+
+Console.WriteLine();
