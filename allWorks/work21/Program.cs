@@ -1,12 +1,29 @@
 ﻿// 21. Программа проверяет пятизначное число на палиндромом.
 
 
-int x=22222, y=x, r=0;
-while(y>10)
-{
-r+=y%10;
-y/=10;
+int x = 12821;
+
+int oneone = 0, onetwo = 0, twoone = 0, twotwo = 0;
+
+oneone = x % 100000 / 10000;
+onetwo = x % 10000 / 1000;
+
+twoone = x % 100 / 10;
+twotwo = x % 10;
+
+Console.WriteLine(oneone);
+Console.WriteLine(twotwo);
+Console.WriteLine(twoone);
+Console.WriteLine(onetwo);
+
+int a, b;
+
+a = oneone + twotwo;
+b = onetwo + twoone;
+
+if(a == b){
+    Console.WriteLine("Yes");
 }
-r+=y;
-if(x==r) {Console.WriteLine("Yes");}
-else  {Console.WriteLine("No");}
+else{
+    Console.WriteLine("No");
+}
