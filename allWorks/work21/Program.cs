@@ -18,8 +18,8 @@ Console.WriteLine(onetwo);
 
 int a, b;
 
-a = oneone + twotwo;
-b = onetwo + twoone;
+a = oneone + ;
+b = onetwo + ;
 
 if(a == b){
     Console.WriteLine("Yes");
